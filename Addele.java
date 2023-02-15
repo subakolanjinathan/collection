@@ -13,7 +13,7 @@ al.add(66);
 al.add(8);
 System.out.println(al);
 al.add(4,1);
-System.out.println("After adding element 1");
-System.out.println(al);
+System.out.println("After adding element 1"+al);
+//System.out.println(al);
 }
 }
